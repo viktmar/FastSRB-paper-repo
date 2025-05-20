@@ -14,7 +14,7 @@ parallel --color --bar --timeout 10000 -j8 --joblog results/joblogfile.txt -a sr
 
 This command will run 240 (2 packages x 120 problems) [jobs](src/jobs.txt) with at most eight running in parallel.
 Each job runs either [this](src/pysr.jl) or [that](src/tisr.jl) file using Julia, and repeats a benchmark problem five times.
-For each job, an output file is created [here](results/pysr/) or [here](results/tisr/) to record successful runs.
+For each job, an output file is created [here](results/pysr/) or [there](results/tisr/) to record successful runs.
 In case of potential new acceptable expressions, a separate file is created, which must be analyzed in the post-processing.
 
 To post-process, go through each of the output files ending in "_failed".
