@@ -1,0 +1,2 @@
+run; gen; runtime; compl; exact; eq_str
+3; Inf; Inf; Inf; 0; ((0.07957747154595002*v2*((1.0/(((v3^2.0)-(2.0*v3*v4*cos(v5)))+(v4^2.0)))^0.5))/v1)

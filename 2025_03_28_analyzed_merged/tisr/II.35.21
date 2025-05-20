@@ -1,0 +1,2 @@
+run; gen; runtime; compl; exact; eq_str
+1; 1262.0; 492.4548509120941; 0; 1; (v1*v2*tanh(((7.243e22*v2*v3)/v4)))

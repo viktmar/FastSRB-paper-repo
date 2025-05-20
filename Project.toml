@@ -1,0 +1,8 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+FastSRB = "6c0b9a22-ed02-4c57-915e-8390d63c7d5e"
+SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
+SymbolicRegression = "8254be44-1295-4e6a-a16d-46603ac705cb"
+SymbolicUtils = "d1185830-fcd6-423d-90d6-eec64667417b"
+TiSR = "e1088136-a916-4db6-8e31-3a049800401f"

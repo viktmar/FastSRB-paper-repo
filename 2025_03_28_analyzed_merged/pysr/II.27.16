@@ -1,0 +1,6 @@
+run; gen; runtime; compl; exact; eq_str
+1; gen; t_since; 0; 1; (0.0026544*(v1^2.0))
+2; gen; t_since; 0; 1; (0.0026544*(v1^2.0))
+3; gen; t_since; 0; 1; (0.0026544*(v1^2.0))
+4; gen; t_since; 0; 1; (0.0026544*(v1^2.0))
+5; gen; t_since; 0; 1; (0.0026544*(v1^2.0))

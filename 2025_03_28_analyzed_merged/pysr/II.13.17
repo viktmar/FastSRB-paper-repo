@@ -1,0 +1,6 @@
+run; gen; runtime; compl; exact; eq_str
+1; gen; t_since; 0; 1; ((2.0e-7*v1)/v2)
+2; gen; t_since; 0; 1; ((2.0e-7*v1)/v2)
+3; gen; t_since; 0; 1; ((2.0e-7*v1)/v2)
+4; gen; t_since; 0; 1; ((2.0e-7*v1)/v2)
+5; gen; t_since; 0; 1; ((2.0e-7*v1)/v2)

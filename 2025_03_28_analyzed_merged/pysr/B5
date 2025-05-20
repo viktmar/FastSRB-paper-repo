@@ -1,0 +1,3 @@
+run; gen; runtime; compl; exact; eq_str
+1; gen; t_since; 0; 1; ((769090.0*(v1^1.5))/sqrt((v2+v3)))
+4; gen; t_since; 0; 1; ((769089.720197159*sqrt((v1^3.0)))/((v2+v3)^0.5))

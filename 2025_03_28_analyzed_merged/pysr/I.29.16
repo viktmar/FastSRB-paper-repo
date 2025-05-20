@@ -1,0 +1,2 @@
+run; gen; runtime; compl; exact; eq_str
+4; gen; t_since; 0; 1; sqrt((((v1^2.0)-(2.0*v1*v2*cos((v3-v4))))+(v2^2.0)))
