@@ -1,5 +1,6 @@
 
-This repository accompanies the [Fast Symbolic Regression Benchmarking]() publication in order to allow repeating the conducted experiments.
+This repository accompanies the [Fast Symbolic Regression Benchmarking]() publication.
+It's designed to allow repeat the conducted experiments.
 The implementation of the benchmark itself can be found [here](https://github.com/viktmar/FastSRB/tree/0.1.0-beta).
 
 To run this benchmark, clone this repository, install GNU parallel & Julia 1.11+, and run the following command:
