@@ -32,6 +32,5 @@ df = innerjoin(tisr_analysis_df, pysr_analysis_df, on=[:name, :moniker, :difficu
 
 sort!(df, [:n_found_pysr, :n_found_tisr], rev=true)
 
-
-CSV.write("2025_03_28_both.csv", df)
+CSV.write("results/results_both.csv", df)
 
