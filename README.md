@@ -1,7 +1,7 @@
 
 # Fast Symbolic Regression Benchmarking
 
-This repository accompanies the [Fast Symbolic Regression Benchmarking]() publication.
+This repository accompanies the [Fast Symbolic Regression Benchmarking](https://arxiv.org/abs/2508.14481) publication.
 It's designed to allow repeating the conducted experiments.
 The implementation of the benchmark itself can be found [here](https://github.com/viktmar/FastSRB).
 
